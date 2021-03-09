@@ -11,7 +11,7 @@ export default function Services() {
                     <div className={styles["services__card"]}>
                         <h2>Move It</h2>
                         <p>NLW34 Rockseat</p>
-                        <Link href="https://moveit-dhs74l6o0-wancla.vercel.app"><button>Saiba Mais</button></Link>
+                        <Link href="https://moveit-wancla.vercel.app"><button>Saiba Mais</button></Link>
                     </div>
                     <div className={styles["services__card"]}>
                         <h2>Twitter Clone</h2>

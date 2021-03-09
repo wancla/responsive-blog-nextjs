@@ -26,7 +26,7 @@ export default function Navbar() {
                             </Link>
                         </li>
                         <li className={styles["navbar__item"]}>
-                            <Link href="https://moveit-dhs74l6o0-wancla.vercel.app">
+                            <Link href="https://moveit-wancla.vercel.app">
                                 <a className={styles["navbar__links"]}>Move It</a>
                             </Link>                            
                         </li>
