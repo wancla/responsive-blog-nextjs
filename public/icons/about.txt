@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Ceviche One
+- Font Author: Copyright (c) 2011 by LatinoType Limitada (luciano@latinotype.com), with Reserved Font Names "Cecivhe" and "Ceviche One"
+- Font Source: http://fonts.gstatic.com/s/cevicheone/v11/gyB4hws1IcA6JzR-GB_JX6zdZ4vZVbgZ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
