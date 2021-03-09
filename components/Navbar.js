@@ -26,12 +26,12 @@ export default function Navbar() {
                             </Link>
                         </li>
                         <li className={styles["navbar__item"]}>
-                            <Link href="#">
-                                <a className={styles["navbar__links"]}>Conhecimentos</a>
+                            <Link href="https://moveit-dhs74l6o0-wancla.vercel.app">
+                                <a className={styles["navbar__links"]}>Move It</a>
                             </Link>                            
                         </li>
                         <li className={styles["navbar__item"]}>
-                            <Link href="/">
+                            <Link href="#portfolio">
                                 <a className={styles["navbar__links"]}>Portfólio</a>
                             </Link>                            
                         </li>
