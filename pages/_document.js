@@ -8,7 +8,6 @@ class MyDocument extends Document {
 	<body>
 	  <Main />
 	  <NextScript />
-          <script src="../scripts/script.js" crossorigin="anonymous"></script>
 	</body>
       </Html>
     )
