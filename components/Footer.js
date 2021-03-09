@@ -11,31 +11,30 @@ export default function Footer() {
                         <div className={styles["footer__link--items"]}>
                             <h2>Sobre Min</h2>
                             <Link href="/sign__up">
-                                <a >Sobre mim</a> 
+                                <a >Historia</a> 
                             </Link>
                             <Link href="/">
-                                <a >Sobre mim</a>
+                                <a >Programação</a>
                             </Link>
                             <Link href="/">
-                                 <a>Sobre mim</a> 
+                                 <a>Profissional</a> 
                             </Link>                         
                         
                         </div>
                         <div className={styles["footer__link--items"]}>
                             <h2>Contato</h2>
-                            <a href="/">Contato 1</a> 
-                            <a href="/">Contato 2</a>
-                            <a href="/">Contato 3</a> 
-                            <a href="/">Contato 4</a>
+                            <a href="/">Suporte</a> 
+                            <a href="/">Mensagem</a>
+                        
                         </div>
                     </div>
                     <div className={styles["footer__link--wrapper"]}>
                         <div className={styles["footer__link--items"]}>
-                            <h2>Videos</h2>
-                            <a href="/">Video 1</a> 
-                            <a href="/">Video 2</a>
-                            <a href="/">Video 3</a> 
-                            <a href="/">Video 4</a>
+                            <h2>Inpirações</h2>
+                            <a href="https://www.youtube.com/c/RocketSeat">Rockseat</a> 
+                            <a href="https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA">Dev Soutinho</a>
+                            <a href="https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw">Deschamps</a> 
+                            <a href="https://www.youtube.com/user/cursosemvideo">Curso em video</a>
                         </div>
                         <div className={styles["footer__link--items"]}>
                             <h2>Social Media</h2>
