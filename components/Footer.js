@@ -11,31 +11,31 @@ export default function Footer() {
                         <div className={styles["footer__link--items"]}>
                             <h2>Sobre Min</h2>
                             <Link href="/sign__up">
-                                <a >Meus Projetos</a> 
+                                <a >Sobre mim</a> 
                             </Link>
                             <Link href="/">
-                                <a >Equipe</a>
+                                <a >Sobre mim</a>
                             </Link>
                             <Link href="/">
-                                 <a>Carreira</a> 
+                                 <a>Sobre mim</a> 
                             </Link>                         
                         
                         </div>
                         <div className={styles["footer__link--items"]}>
                             <h2>Contato</h2>
-                            <a href="/"></a> 
-                            <a href="/">Support</a>
-                            <a href="/">Destinations</a> 
-                            <a href="/">Sponsorships</a>
+                            <a href="/">Contato 1</a> 
+                            <a href="/">Contato 2</a>
+                            <a href="/">Contato 3</a> 
+                            <a href="/">Contato 4</a>
                         </div>
                     </div>
                     <div className={styles["footer__link--wrapper"]}>
                         <div className={styles["footer__link--items"]}>
                             <h2>Videos</h2>
-                            <a href="/">Submit Video</a> 
-                            <a href="/">Ambassadors</a>
-                            <a href="/">Agency</a> 
-                            <a href="/">Influencer</a>
+                            <a href="/">Video 1</a> 
+                            <a href="/">Video 2</a>
+                            <a href="/">Video 3</a> 
+                            <a href="/">Video 4</a>
                         </div>
                         <div className={styles["footer__link--items"]}>
                             <h2>Social Media</h2>
